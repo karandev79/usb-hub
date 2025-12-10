@@ -9,3 +9,7 @@ Quantity,Designator,Footprint,Value,Manufacturer Part,Supplier Part
 3,"USB1,USB2,USB3",USB-C-SMD_TYPE-C-6PIN-2MD-073,"TYPE-C 16PIN 2MD(073)","TYPE-C 16PIN 2MD(073)",C2765186
 2,"USB4,USB5",USB-A-TH_USB-231-ARY,USB-231-ARY,USB-231-ARY,C720525
 1,X1,HC-49S_L11.5-W4.7-P4.88,12MHz,H1OEL89CSC-SUGYLC-12M,C7471636
+,"Merchandise Total",,38.86,,
+,"Shipping Charge",,13.12,,
+,"Discount",,-20.00,,
+,"Order Total",,31.98,,
