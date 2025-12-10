@@ -51,7 +51,7 @@
 | 2 | USB4,USB5 | USB-A-TH_USB-231-ARY | USB-231-ARY | USB-231-ARY | C720525 |
 | 1 | X1 | HC-49S_L11.5-W4.7-P4.88 | 12MHz | H1OEL89CSC-SUGYLC-12M | C7471636 |
 
-Merchandise Total: $38.86
-Shipping Charge: $13.12
-Discount: -$20
-Order Total: $31.98 ($32 approx)
+Merchandise Total: $38.86 <br>
+Shipping Charge: $13.12 <br>
+Discount: -$20 <br>
+Order Total: $31.98 ($32 approx) <br>
