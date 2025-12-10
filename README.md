@@ -38,3 +38,20 @@
 ----
 
 ## BOM
+| Quantity | Designator | Footprint | Value | Manufacturer Part | Supplier Part |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 7 | C1,C2,C3,C4,C5,C6,C7 | C1206 | 10uF | TCC1206X7R106K160HTM | C48543521 |
+| 1 | C8 | C0402 | 100nF | C0402X7R500-104KNP | C3898517 |
+| 1 | D1 | DO-41_BD2.4-L4.7-P8.70-D0.9-RD | 1N4007 | | |
+| 1 | R1 | R0201 | 2.7kΩ | RMCF0201FT2K70 | C2484985 |
+| 3 | R2,R3,R4 | R0805 | 100kΩ | FRQ0805F1003TS | C18222266 |
+| 1 | R5 | R01005 | 47kΩ | RC0100FR-0747KL | C850266 |
+| 1 | U1 | SSOP-28_L9.9-W3.9-P0.635-LS6.0-BL-1 | FE1.1S-BSOP28BCN | FE1.1S-BSOP28BCN | C9359 |
+| 3 | USB1,USB2,USB3 | USB-C-SMD_TYPE-C-6PIN-2MD-073 | TYPE-C 16PIN 2MD(073) | TYPE-C 16PIN 2MD(073) | C2765186 |
+| 2 | USB4,USB5 | USB-A-TH_USB-231-ARY | USB-231-ARY | USB-231-ARY | C720525 |
+| 1 | X1 | HC-49S_L11.5-W4.7-P4.88 | 12MHz | H1OEL89CSC-SUGYLC-12M | C7471636 |
+
+Merchandise Total: $38.86
+Shipping Charge: $13.12
+Discount: -$20
+Order Total: $31.98 ($32 approx)
